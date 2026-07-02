@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Model Files
+*.pt
+
+# Output Files
+output/
+runs/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Python Environment
+.python-version
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment Variables
+.env
